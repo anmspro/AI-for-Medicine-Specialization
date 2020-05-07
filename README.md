@@ -1,4 +1,4 @@
-# AI for Medicine
+# AI for Medicine Specialization
 
 **[AI for Medicine Specialization](https://www.coursera.org/specializations/ai-for-medicine?)**
 
