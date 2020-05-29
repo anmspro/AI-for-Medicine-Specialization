@@ -20,8 +20,8 @@
     + Cox Proportional Hazards and Random Survival Forests
 + **[AI For Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment)**
   + [Week 1](https://github.com/anmspro/AI-for-Medicine-Specialization/tree/master/AI%20for%20Medical%20Treatment/Week%201)
-    + []()
+    + Treatment Effect Estimation
   + [Week 2](https://github.com/anmspro/AI-for-Medicine-Specialization/tree/master/AI%20for%20Medical%20Treatment/Week%202)
-    + []()
+    + Medical Question Answering
   + [Week 3](https://github.com/anmspro/AI-for-Medicine-Specialization/tree/master/AI%20for%20Medical%20Treatment/Week%203)
-    + []()
+    + ML Interpretation
